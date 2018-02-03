@@ -1,0 +1,14 @@
+{
+    "name": "ayanhaiai/apple",
+    "description": "test composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ayanhaiai",
+            "email": "2392979955@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
